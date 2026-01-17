@@ -1,0 +1,993 @@
+2026.01.11 23:42:24 INFO  Started: Metals version 1.6.4 in folders '/home/warintara/Téléchargements/simovies20251201' for client Visual Studio Code 1.107.1.
+2026.01.11 23:42:26 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.01.11 23:42:26 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.11 23:42:28 WARN  no build tool detected in workspace '/home/warintara/Téléchargements/simovies20251201'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.01.11 23:42:28 WARN  Build server is not auto-connectable.
+2026.01.11 23:42:28 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/CampFire.java
+2026.01.11 23:42:28 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java
+2026.01.11 23:42:31 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.11 23:42:32 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.11 23:42:32 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.11 23:42:32 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.11 23:42:33 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.11 23:42:35 INFO  time: code lens generation in 7.35s
+janv. 11, 2026 11:42:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 3
+2026.01.11 23:42:41 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.11 23:42:41 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+janv. 11, 2026 11:42:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 14
+2026.01.11 23:42:41 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.11 23:42:41 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+janv. 11, 2026 11:42:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 11
+2026.01.11 23:42:41 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+janv. 11, 2026 11:42:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 16
+2026.01.11 23:42:41 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.11 23:42:41 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+janv. 11, 2026 11:42:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 18
+2026.01.11 23:42:45 INFO  Shutting down server
+2026.01.11 23:42:45 INFO  shutting down Metals
+2026.01.12 09:02:56 INFO  Started: Metals version 1.6.4 in folders '/home/warintara/Téléchargements/simovies20251201' for client Visual Studio Code 1.107.1.
+2026.01.12 09:03:00 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.01.12 09:03:01 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/BootingBerzerk.java. Using fallback presentation compiler.
+2026.01.12 09:03:02 WARN  no build tool detected in workspace '/home/warintara/Téléchargements/simovies20251201'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.01.12 09:03:02 WARN  Build server is not auto-connectable.
+2026.01.12 09:03:02 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java
+2026.01.12 09:03:02 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamASecondaryBotXXX.java
+2026.01.12 09:03:02 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/BootingBerzerk.java
+2026.01.12 09:03:10 INFO  time: code lens generation in 5.5s
+2026.01.12 09:03:30 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/BootingBerzerk.java. Using fallback presentation compiler.
+2026.01.12 09:03:32 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/BootingBerzerk.java. Using fallback presentation compiler.
+2026.01.12 09:03:32 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:03:33 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java
+janv. 12, 2026 9:03:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 9
+2026.01.12 09:03:33 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:03:33 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:03:38 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:03:41 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:03:41 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:03:42 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java
+2026.01.12 09:03:46 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:03:46 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:03:46 WARN  Running javac-semanticdb failed for file:///home/warintara/T%C3%A9l%C3%A9chargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Output:
+
+2026.01.12 09:03:46 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:03:47 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java
+2026.01.12 09:03:47 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:03:47 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:03:49 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:03:50 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:03:51 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java
+2026.01.12 09:03:54 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:03:58 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:03:58 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:03:58 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:03:59 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:03:59 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:03:59 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:03:59 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:04:01 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:04:01 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:04:01 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:04:01 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:04:02 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:04:02 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:04:02 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java
+2026.01.12 09:04:04 INFO  time: code lens generation in 1.86s
+2026.01.12 09:04:06 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:04:06 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:04:06 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:04:11 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/BootingBerzerk.java. Using fallback presentation compiler.
+2026.01.12 09:04:11 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/BootingBerzerk.java
+2026.01.12 09:04:11 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/BootingBerzerk.java. Using fallback presentation compiler.
+2026.01.12 09:04:11 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/BootingBerzerk.java. Using fallback presentation compiler.
+2026.01.12 09:04:26 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:04:26 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java
+2026.01.12 09:04:26 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+janv. 12, 2026 9:04:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 82
+2026.01.12 09:04:26 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:04:26 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:04:48 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:04:48 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:05:16 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:05:18 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:05:18 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:05:19 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:05:21 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java
+2026.01.12 09:05:22 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:05:26 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:05:26 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:05:26 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:05:27 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:05:28 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:05:28 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:05:29 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:05:29 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:05:32 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:05:32 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:05:32 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+janv. 12, 2026 9:05:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 132
+2026.01.12 09:05:33 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:05:33 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java
+2026.01.12 09:05:33 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:05:33 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:05:34 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:05:36 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:05:36 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:05:36 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:05:39 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:05:39 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:05:39 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:05:39 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:06:31 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:06:33 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:06:36 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:06:38 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:06:39 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:06:39 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:06:55 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:06:55 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:06:56 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:06:57 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java
+2026.01.12 09:06:58 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:06:58 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:07:01 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:07:01 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:07:01 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:07:01 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:07:02 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:07:02 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:07:02 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:07:02 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:07:02 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:07:03 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:07:03 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:07:04 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java
+2026.01.12 09:07:04 INFO  time: code lens generation in 1.12s
+2026.01.12 09:07:04 INFO  time: code lens generation in 1.71s
+2026.01.12 09:08:26 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:08:27 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:08:29 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:08:30 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java
+2026.01.12 09:08:30 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:08:30 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:08:34 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:08:34 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:08:34 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:08:34 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:08:35 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:08:35 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:08:35 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:08:35 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:08:37 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:08:37 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java
+2026.01.12 09:08:47 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:08:49 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:08:51 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:09:37 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:09:37 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:09:37 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:09:37 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:09:37 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:09:37 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:09:38 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:09:39 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java
+2026.01.12 09:09:38 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:09:38 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+janv. 12, 2026 9:09:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 229
+2026.01.12 09:09:38 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:09:38 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:09:40 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:09:40 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:09:40 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:09:41 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:09:41 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:09:41 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:09:42 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:09:43 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:09:43 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:09:43 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:09:43 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:09:43 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:09:43 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:09:44 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:09:44 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:09:44 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:09:44 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:09:44 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:09:44 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:09:45 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:09:45 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:09:46 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java
+2026.01.12 09:09:47 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:10:10 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:10:10 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:10:12 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java
+2026.01.12 09:10:13 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:10:15 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:10:17 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:10:19 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java
+2026.01.12 09:10:28 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:10:30 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:10:30 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:10:32 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:10:33 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:10:33 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:10:33 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:10:33 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:10:42 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:10:43 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:10:49 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:10:52 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:11:02 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:11:03 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:11:09 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:11:36 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:11:40 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:11:40 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:11:42 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java
+2026.01.12 09:11:42 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:11:42 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:11:42 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:11:49 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:11:49 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:11:49 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:11:49 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:11:50 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java
+2026.01.12 09:11:51 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:11:59 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:12:01 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:12:01 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:12:03 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:12:03 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java
+2026.01.12 09:12:03 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:12:04 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:12:04 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:12:07 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:12:07 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:12:07 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:12:08 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java
+2026.01.12 09:12:08 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:12:08 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:12:13 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:12:20 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:12:20 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:12:20 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:12:53 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:12:54 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:12:56 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:12:56 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:12:57 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:12:57 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:12:57 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:12:57 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:12:58 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java
+2026.01.12 09:12:58 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:12:58 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:12:58 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:12:58 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:13:00 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:13:00 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:13:00 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:13:00 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:13:00 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:13:00 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:13:01 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:13:01 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:13:01 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:13:02 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:13:02 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:13:02 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java
+2026.01.12 09:13:04 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:13:04 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:13:04 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:13:05 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:13:05 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java
+2026.01.12 09:13:06 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:13:12 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:13:26 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:13:28 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:13:28 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:13:30 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:13:31 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java
+2026.01.12 09:13:32 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:13:32 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:13:32 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:13:34 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:13:36 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:13:36 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:13:36 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:13:36 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:13:37 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java
+2026.01.12 09:13:38 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:13:43 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:13:51 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:13:51 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:13:51 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:13:51 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:13:53 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:13:55 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:14:01 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:14:01 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:15:52 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+janv. 12, 2026 9:15:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 519
+2026.01.12 09:15:52 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:15:52 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:14 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:14 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:14 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:14 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:21 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:21 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:23 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java
+2026.01.12 09:16:24 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+janv. 12, 2026 9:16:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 568
+2026.01.12 09:16:24 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:24 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:24 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:25 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:25 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:25 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:25 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:25 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:26 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:26 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:26 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:26 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:26 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:26 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:27 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:27 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:27 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:27 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:27 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:28 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java
+2026.01.12 09:16:29 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:43 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:43 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:47 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:48 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:49 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java
+2026.01.12 09:16:50 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:50 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:54 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:54 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:54 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:54 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:54 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:55 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:55 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:55 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:56 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:56 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:56 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:56 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:56 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:16:57 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java
+2026.01.12 09:16:58 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:17:26 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:17:43 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:17:43 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:17:47 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:17:47 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:17:52 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:17:59 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:17:59 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:18:00 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:18:00 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:18:01 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:18:01 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+janv. 12, 2026 9:18:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 669
+2026.01.12 09:18:03 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+janv. 12, 2026 9:18:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 670
+2026.01.12 09:18:03 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:18:03 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java
+2026.01.12 09:18:03 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:18:03 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:18:03 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:18:03 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:18:04 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:18:04 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:18:04 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:18:04 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:18:05 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java
+2026.01.12 09:18:04 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:18:06 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:18:10 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:18:10 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:18:11 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:18:11 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:18:12 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:18:12 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:18:14 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:18:14 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:18:16 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:18:16 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:18:16 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:18:21 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:18:52 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:18:52 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:19:09 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:19:09 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:19:09 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:19:09 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:19:09 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:19:09 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:19:24 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:19:24 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:19:32 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:19:32 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:19:32 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:19:32 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:19:48 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:19:48 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java
+2026.01.12 09:19:48 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:19:48 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:19:49 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:19:50 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:19:53 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:19:53 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:19:53 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:19:54 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:19:54 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:20:09 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/characteristics/Parameters.java
+2026.01.12 09:20:09 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/characteristics/Parameters.java. Using fallback presentation compiler.
+2026.01.12 09:20:09 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/characteristics/Parameters.java. Using fallback presentation compiler.
+2026.01.12 09:20:09 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/characteristics/Parameters.java. Using fallback presentation compiler.
+2026.01.12 09:20:09 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/characteristics/Parameters.java. Using fallback presentation compiler.
+2026.01.12 09:20:12 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/characteristics/Parameters.java. Using fallback presentation compiler.
+2026.01.12 09:20:12 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/characteristics/Parameters.java. Using fallback presentation compiler.
+2026.01.12 09:20:12 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/characteristics/Parameters.java. Using fallback presentation compiler.
+2026.01.12 09:20:12 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/characteristics/Parameters.java. Using fallback presentation compiler.
+2026.01.12 09:20:13 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/characteristics/Parameters.java. Using fallback presentation compiler.
+2026.01.12 09:20:13 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/characteristics/Parameters.java. Using fallback presentation compiler.
+2026.01.12 09:20:14 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/characteristics/Parameters.java
+2026.01.12 09:20:14 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/characteristics/Parameters.java. Using fallback presentation compiler.
+2026.01.12 09:20:47 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/characteristics/Parameters.java. Using fallback presentation compiler.
+2026.01.12 09:20:51 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:20:51 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java
+2026.01.12 09:20:51 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:13 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:14 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:14 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:14 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:15 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:15 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:15 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:15 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:15 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:17 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:17 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:17 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:17 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:18 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java
+2026.01.12 09:21:19 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:24 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:24 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:25 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:25 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:25 WARN  Running javac-semanticdb failed for file:///home/warintara/T%C3%A9l%C3%A9chargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Output:
+
+2026.01.12 09:21:25 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:26 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:26 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:25 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:26 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:26 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:26 INFO  empty definition using pc, found symbol in pc: java/util/ArrayList# (full report at: "/home/warintara/Téléchargements/simovies20251201/.metals/.reports/metals-full/2026-01-12/r_empty-definition_09-21-26-760.md")
+2026.01.12 09:21:26 INFO  Created report: Optional[file:///home/warintara/T%C3%A9l%C3%A9chargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java]
+2026.01.12 09:21:26 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:26 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java
+2026.01.12 09:21:26 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:26 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:26 INFO  empty definition using pc, found symbol in pc: java/util/ArrayList# (full report at: "/home/warintara/Téléchargements/simovies20251201/.metals/.reports/metals-full/2026-01-12/r_empty-definition_09-21-26-760.md")
+2026.01.12 09:21:26 INFO  Created report: Optional[file:///home/warintara/T%C3%A9l%C3%A9chargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java]
+2026.01.12 09:21:26 INFO  empty definition using pc, found symbol in pc: java/lang/String# (full report at: "/home/warintara/Téléchargements/simovies20251201/.metals/.reports/metals-full/2026-01-12/r_empty-definition_09-21-27-079.md")
+2026.01.12 09:21:26 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:26 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:26 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:27 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:29 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:29 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:45 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:45 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:45 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:45 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:45 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:45 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:46 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:46 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:46 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:48 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:50 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:50 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:51 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:21:51 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:22:03 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/characteristics/Parameters.java. Using fallback presentation compiler.
+2026.01.12 09:22:03 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/characteristics/Parameters.java
+2026.01.12 09:22:03 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/characteristics/Parameters.java. Using fallback presentation compiler.
+2026.01.12 09:22:03 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/characteristics/Parameters.java. Using fallback presentation compiler.
+2026.01.12 09:22:03 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/characteristics/Parameters.java. Using fallback presentation compiler.
+2026.01.12 09:22:04 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/characteristics/Parameters.java. Using fallback presentation compiler.
+2026.01.12 09:23:24 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/characteristics/Parameters.java. Using fallback presentation compiler.
+janv. 12, 2026 9:23:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 855
+2026.01.12 09:23:24 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/characteristics/Parameters.java. Using fallback presentation compiler.
+2026.01.12 09:23:24 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/characteristics/Parameters.java. Using fallback presentation compiler.
+2026.01.12 09:23:24 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/characteristics/Parameters.java. Using fallback presentation compiler.
+2026.01.12 09:23:25 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/characteristics/Parameters.java. Using fallback presentation compiler.
+2026.01.12 09:23:25 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/characteristics/Parameters.java. Using fallback presentation compiler.
+2026.01.12 09:23:25 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamASecondaryBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:23:26 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamASecondaryBotXXX.java
+2026.01.12 09:23:26 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamASecondaryBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:23:26 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamASecondaryBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:23:26 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamASecondaryBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:23:26 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamASecondaryBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:23:26 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamASecondaryBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:23:26 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamASecondaryBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:23:28 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamASecondaryBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:26:48 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamASecondaryBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:26:49 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamASecondaryBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:26:49 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamASecondaryBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:26:51 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamASecondaryBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:26:51 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamASecondaryBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:26:53 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamASecondaryBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:26:55 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamASecondaryBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:26:55 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamASecondaryBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:26:56 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamASecondaryBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:26:56 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamASecondaryBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:26:58 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamASecondaryBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:26:58 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamASecondaryBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:26:58 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamASecondaryBotXXX.java
+2026.01.12 09:27:12 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamASecondaryBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:27:20 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamASecondaryBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:27:20 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamASecondaryBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:27:20 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamASecondaryBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:27:22 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamASecondaryBotXXX.java
+2026.01.12 09:27:24 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamASecondaryBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:27:24 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamASecondaryBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:27:24 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamASecondaryBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:27:25 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamASecondaryBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:27:25 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/my_algorithms/TeamASecondaryBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:27:28 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:27:28 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java
+janv. 12, 2026 9:27:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 916
+2026.01.12 09:27:28 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:27:28 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:27:28 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:27:30 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:27:30 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:27:31 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:27:31 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:27:32 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java
+2026.01.12 09:27:34 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:27:40 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:27:40 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:27:42 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java
+2026.01.12 09:27:52 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:27:56 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:27:56 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:27:57 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:27:58 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java
+2026.01.12 09:28:03 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:03 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:05 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:05 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:06 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:08 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:09 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:10 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:10 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java
+2026.01.12 09:28:10 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:10 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:10 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:10 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:10 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:10 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:11 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+janv. 12, 2026 9:28:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 980
+2026.01.12 09:28:11 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:11 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:11 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:11 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:12 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:12 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:12 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:12 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:12 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:13 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:13 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:13 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:13 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:14 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java
+2026.01.12 09:28:15 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:33 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:33 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:35 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:35 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:35 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:37 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:37 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:38 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:38 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:40 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:40 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:42 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:42 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:43 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java
+2026.01.12 09:28:43 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:43 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:44 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:44 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:46 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:28:49 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:11 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:12 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:12 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:14 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:20 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:20 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:22 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:22 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:24 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:34 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:34 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:36 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:37 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:37 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:39 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:39 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:39 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:39 INFO  Created report: Optional[file:///home/warintara/T%C3%A9l%C3%A9chargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java]
+2026.01.12 09:29:39 INFO  empty definition using pc, found symbol in pc: algorithms/TeamAMainBotXXX#moveBack# (full report at: "/home/warintara/Téléchargements/simovies20251201/.metals/.reports/metals-full/2026-01-12/r_empty-definition_09-29-39-316.md")
+2026.01.12 09:29:39 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java
+2026.01.12 09:29:40 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:40 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:40 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:41 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java
+2026.01.12 09:29:42 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:42 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:43 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:43 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:44 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:44 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:46 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java
+2026.01.12 09:29:46 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:46 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:46 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:46 INFO  empty definition using pc, found symbol in pc: algorithms/TeamAMainBotXXX#moveBack# (full report at: "/home/warintara/Téléchargements/simovies20251201/.metals/.reports/metals-full/2026-01-12/r_empty-definition_09-29-39-316.md")
+2026.01.12 09:29:46 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:46 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:47 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:47 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:47 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:48 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java
+2026.01.12 09:29:50 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:50 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:51 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:51 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java
+2026.01.12 09:29:52 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:51 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:52 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:52 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:52 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:52 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:52 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:52 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:54 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java
+2026.01.12 09:29:54 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+janv. 12, 2026 9:29:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 1102
+2026.01.12 09:29:54 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:54 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:54 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:55 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java
+2026.01.12 09:29:55 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:55 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:55 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:55 WARN  Running javac-semanticdb failed for file:///home/warintara/T%C3%A9l%C3%A9chargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Output:
+
+2026.01.12 09:29:55 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:55 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:56 WARN  Running javac-semanticdb failed for file:///home/warintara/T%C3%A9l%C3%A9chargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Output:
+
+2026.01.12 09:29:56 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:56 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:56 WARN  Running javac-semanticdb failed for file:///home/warintara/T%C3%A9l%C3%A9chargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Output:
+
+2026.01.12 09:29:56 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+janv. 12, 2026 9:29:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 1122
+2026.01.12 09:29:56 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:56 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:56 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:57 WARN  Running javac-semanticdb failed for file:///home/warintara/T%C3%A9l%C3%A9chargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Output:
+
+2026.01.12 09:29:57 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:57 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+janv. 12, 2026 9:29:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 1129
+2026.01.12 09:29:57 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:57 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:57 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:57 WARN  Running javac-semanticdb failed for file:///home/warintara/T%C3%A9l%C3%A9chargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Output:
+
+2026.01.12 09:29:58 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+janv. 12, 2026 9:29:59 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 1136
+janv. 12, 2026 9:29:59 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 1135
+2026.01.12 09:29:58 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:58 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:59 WARN  Running javac-semanticdb failed for file:///home/warintara/T%C3%A9l%C3%A9chargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Output:
+
+2026.01.12 09:29:58 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:29:58 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:30:00 WARN  Running javac-semanticdb failed for file:///home/warintara/T%C3%A9l%C3%A9chargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Output:
+
+2026.01.12 09:30:00 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:30:00 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:30:00 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java
+2026.01.12 09:30:00 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:30:00 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:30:00 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:30:00 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:30:00 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:30:01 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:30:01 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:30:01 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:30:01 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:30:03 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:30:03 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java
+2026.01.12 09:30:04 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:30:09 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:30:09 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:30:58 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:31:44 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:31:44 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:31:45 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:33:50 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:33:50 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:33:52 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:33:52 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:33:53 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:33:53 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:33:55 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:33:57 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:33:57 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:33:58 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:00 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:00 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:02 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java
+2026.01.12 09:34:12 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:13 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:13 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:14 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:14 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:15 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:18 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:18 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:20 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:20 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:22 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:22 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java
+2026.01.12 09:34:22 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java
+2026.01.12 09:34:22 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:46 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:46 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:47 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:47 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:47 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:47 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:48 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:48 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:48 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:48 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:48 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:48 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:49 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:49 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:49 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:49 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:51 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:51 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:51 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:53 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:55 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:55 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:55 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:55 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:57 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:58 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:58 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:58 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:58 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:59 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java
+2026.01.12 09:34:59 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:58 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:58 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:59 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:59 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:59 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:59 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:34:59 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:35:00 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:35:00 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:35:00 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:35:00 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:35:01 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:35:01 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:35:01 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:35:02 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:35:03 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java
+2026.01.12 09:35:04 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:36:57 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:36:57 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:36:57 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:36:58 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:36:57 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:36:57 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:37:33 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:37:34 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:37:34 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:37:36 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:37:37 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:37:44 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:37:44 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:37:46 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:37:47 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:37:48 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java
+2026.01.12 09:37:47 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:37:50 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:37:50 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:37:51 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java
+2026.01.12 09:38:07 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:09 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:10 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:12 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java
+2026.01.12 09:38:13 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:13 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:13 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:14 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java
+2026.01.12 09:38:15 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:19 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:19 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:19 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:21 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:21 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:22 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java
+2026.01.12 09:38:23 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:23 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:24 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java
+2026.01.12 09:38:24 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:24 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:24 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:24 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:25 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:26 WARN  Running javac-semanticdb failed for file:///home/warintara/T%C3%A9l%C3%A9chargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Output:
+
+2026.01.12 09:38:25 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:26 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java
+2026.01.12 09:38:27 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:30 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:30 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:31 WARN  Running javac-semanticdb failed for file:///home/warintara/T%C3%A9l%C3%A9chargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Output:
+
+2026.01.12 09:38:32 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java
+2026.01.12 09:38:33 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:33 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:34 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:35 WARN  Running javac-semanticdb failed for file:///home/warintara/T%C3%A9l%C3%A9chargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Output:
+
+2026.01.12 09:38:34 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:34 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:35 WARN  Running javac-semanticdb failed for file:///home/warintara/T%C3%A9l%C3%A9chargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Output:
+
+2026.01.12 09:38:36 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:36 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java
+2026.01.12 09:38:37 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:39 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:39 WARN  Running javac-semanticdb failed for file:///home/warintara/T%C3%A9l%C3%A9chargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Output:
+
+2026.01.12 09:38:41 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java
+2026.01.12 09:38:45 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:45 WARN  Running javac-semanticdb failed for file:///home/warintara/T%C3%A9l%C3%A9chargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Output:
+
+2026.01.12 09:38:45 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:45 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:45 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:45 INFO  Created report: Optional[file:///home/warintara/T%C3%A9l%C3%A9chargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java]
+2026.01.12 09:38:45 INFO  empty definition using pc, found symbol in pc:  (full report at: "/home/warintara/Téléchargements/simovies20251201/.metals/.reports/metals-full/2026-01-12/r_empty-definition_09-38-45-920.md")
+2026.01.12 09:38:45 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:46 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:46 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java
+2026.01.12 09:38:47 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:47 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:48 WARN  Running javac-semanticdb failed for file:///home/warintara/T%C3%A9l%C3%A9chargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Output:
+
+2026.01.12 09:38:49 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:49 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java
+2026.01.12 09:38:50 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:50 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:50 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:50 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:51 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:38:52 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java
+2026.01.12 09:38:53 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:39:17 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:39:18 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:39:21 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:39:21 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:39:23 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:39:23 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:39:24 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:39:24 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:39:26 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:39:27 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:39:29 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java
+2026.01.12 09:39:35 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:39:36 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:39:36 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:39:38 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java
+2026.01.12 09:39:49 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:39:52 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:39:54 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:39:54 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 09:39:56 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java
+2026.01.12 10:03:50 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 10:03:50 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 10:03:51 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 10:03:51 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 10:03:51 INFO  Created report: Optional[file:///home/warintara/T%C3%A9l%C3%A9chargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java]
+2026.01.12 10:03:51 INFO  empty definition using pc, found symbol in pc: algorithms/TeamAMainBotXXX#fire# (full report at: "/home/warintara/Téléchargements/simovies20251201/.metals/.reports/metals-full/2026-01-12/r_empty-definition_10-03-51-587.md")
+2026.01.12 11:06:59 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 11:06:59 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 11:06:59 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 11:07:06 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 11:07:13 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 11:35:02 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 11:35:02 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 11:35:07 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 11:35:09 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 11:35:09 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 11:35:11 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 11:37:56 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 11:38:24 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 11:38:30 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 11:39:50 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 11:52:01 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 11:52:04 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 11:52:06 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 11:52:06 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 11:52:07 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 11:52:07 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 11:52:07 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 11:52:07 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 11:52:08 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 11:52:08 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 11:52:08 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+janv. 12, 2026 11:52:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 1564
+2026.01.12 11:52:09 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 11:52:09 WARN  no build target for: /home/warintara/Téléchargements/simovies20251201/src/characteristics/IRadarResult.java
+2026.01.12 11:52:08 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/characteristics/IRadarResult.java. Using fallback presentation compiler.
+2026.01.12 11:52:11 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 23:34:39 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 23:34:43 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 23:35:03 INFO  no build target found for /home/warintara/Téléchargements/simovies20251201/src/algorithms/TeamAMainBotXXX.java. Using fallback presentation compiler.
+2026.01.12 23:35:04 INFO  Shutting down server
+2026.01.12 23:35:04 INFO  shutting down Metals
+2026.01.12 23:35:06 INFO  Exiting server

@@ -14,6 +14,8 @@ public class ScoutSecondaryBot extends Brain {
     private static final int ENEMY = 0xE11E;
     private static final int OVER = 0xC00010FF;
 
+    private static final int ENEMY_TOO_CLOSE = 120;
+
     private int cooldown = 0;
     private int whoAmI = 1;
 
@@ -36,7 +38,7 @@ public class ScoutSecondaryBot extends Brain {
 
         if (cooldown > 0) cooldown--;
 
-        // 🔁 Si on est en train de tourner → priorité absolue
+        /* 🔒 Rotation bloquante (comme Stage6Main) */
         if (turning) {
             if (sameDir(getHeading(), targetHeading)) {
                 turning = false;
@@ -46,16 +48,32 @@ public class ScoutSecondaryBot extends Brain {
             return;
         }
 
-        // 🔍 Scanner ennemis
+        /* 🚨 ENNEMI TROP PROCHE → RECUL IMMEDIAT */
+        for (IRadarResult r : detectRadar()) {
+            if ((r.getObjectType() == IRadarResult.Types.OpponentMainBot ||
+                 r.getObjectType() == IRadarResult.Types.OpponentSecondaryBot)
+                && r.getObjectDistance() < ENEMY_TOO_CLOSE) {
+
+                log("Enemy too close → backing off");
+                moveBack();
+
+                // préparer une rotation juste après
+                turning = true;
+                targetHeading = getHeading() + Parameters.RIGHTTURNFULLANGLE;
+                return;
+            }
+        }
+
+        /* 🔍 Scanner ennemis (broadcast) */
         scanAndReportEnemies();
 
-        // 👁️ Détection frontale
+        /* 👁️ Détection frontale */
         IFrontSensorResult front = detectFront();
 
         if (front.getObjectType() == IFrontSensorResult.Types.NOTHING) {
             move();
         } else {
-            // 🚧 Obstacle → virage COMPLET
+            // 🚧 Mur / robot / wreck → rotation complète
             turning = true;
             targetHeading = getHeading() + Parameters.RIGHTTURNFULLANGLE;
             stepTurn(Parameters.Direction.RIGHT);

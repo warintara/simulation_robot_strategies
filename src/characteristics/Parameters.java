@@ -38,9 +38,9 @@ public class Parameters {
                              teamAMainBot2InitHeading = EAST, //clockwise trigonometric unit, according to screen pixel coordinate reference
                              teamAMainBot3InitX = 200, //1 unit = 1mm, coordinate of central point
                              teamAMainBot3InitY = 1200, //1 unit = 1mm, coordinate of central point
-                             teamAMainBot3InitHeading = EAST; //clockwise trigonometric unit, according to screen pixel coordinate reference
+                             t4amAMainBot3InitHeading = EAST; //clockwise trigonometric unit, according to screen pixel coordinate reference
 
-  public static final String teamASecondaryBotBrainClassName = "algorithms.Stage3SecondaryA"; //class given by name; is supposed to extends robotsimulator.Brain
+  public static final String teamASecondaryBotBrainClassName = "algorithms.ScoutSecondaryBot"; //class given by name; is supposed to extends robotsimulator.Brain
   public static final String teamASecondaryBotAvatar = "avatars/clumpsy.png"; //path relative to location of ant build.xml file
   public static final double teamASecondaryBotRadius = 50, //1 unit = 1mm, body radius
                              teamASecondaryBotFrontalDetectionRange = 500, //1 unit = 1mm, range of frontal sensor
@@ -59,7 +59,7 @@ public class Parameters {
   //---TEAM-B-PARAMETERS---//
   //-----------------------//
   public static final String teamBName = "Fantom Danger";
-  public static final String teamBMainBotBrainClassName = "algorithms.Stage3SecondaryA"; //class given by name; is supposed to extends robotsimulator.Brain
+  public static final String teamBMainBotBrainClassName = "algorithms.Stage6MainA"; //class given by name; is supposed to extends robotsimulator.Brain
   public static final String teamBMainBotAvatar = "avatars/hollowee.png"; //path relative to location of ant build.xml file
   public static final double teamBMainBotRadius = 50, //1 unit = 1mm, body radius
                              teamBMainBotFrontalDetectionRange = 300, //1 unit = 1mm, range of frontal sensor
